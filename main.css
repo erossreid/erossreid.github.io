@@ -463,7 +463,16 @@ transform:translatey(0);
 -webkit-transition-delay:.2s;
 transition-delay:.2s;
 }
+.footer {
+  display: block;
+  height: 300px;
+  background-color: ##2a2a29;
+}
 
+.footer ul li {
+  font-family: source sans pro, sans-serif;
+  color:purple;
+}
 /* Extra small devices (phones, up to 480px) */
 @media screen (max-width: 480px) {
 
