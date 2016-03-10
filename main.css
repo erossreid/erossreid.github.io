@@ -4,7 +4,7 @@ body {
     font-size: 16px;
 }
 
-/* navbar */
+/* -------------------------navbar----------------------*/
 
 .navbar-default .navbar-brand{
 	color: #c56b28; 
@@ -109,47 +109,7 @@ font-weight: 400;
   background-color: #c56b28;
   border-color: #efefef;
 }
-/*.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-  color: #333;
-  background-color: #e6e6e6;
-  border-color: #adadad;
-}
-.btn-default:active:hover,
-.btn-default.active:hover,
-.open > .dropdown-toggle.btn-default:hover,
-.btn-default:active:focus,
-.btn-default.active:focus,
-.open > .dropdown-toggle.btn-default:focus,
-.btn-default:active.focus,
-.btn-default.active.focus,
-.open > .dropdown-toggle.btn-default.focus {
-  color: #333;
-  background-color: #d4d4d4;
-  border-color: #8c8c8c;
-}
-.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-  background-image: none;
-}
-.btn-default.disabled:hover,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default:hover,
-.btn-default.disabled:focus,
-.btn-default[disabled]:focus,
-fieldset[disabled] .btn-default:focus,
-.btn-default.disabled.focus,
-.btn-default[disabled].focus,
-fieldset[disabled] .btn-default.focus {
-  background-color: #fff;
-  border-color: #ccc;
-}
-.btn-default .badge {
-  color: #fff;
-  background-color: #333;
-}*/
+
 /* --------- Hero --------*/
 
 .jumbotron {
@@ -463,6 +423,8 @@ transform:translatey(0);
 -webkit-transition-delay:.2s;
 transition-delay:.2s;
 }
+
+/* -------------------------Footer----------------------*/
 .footer-distributed{
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -472,7 +434,6 @@ transition-delay:.2s;
 	font: bold 16px sans-serif;
 
 	padding: 55px 50px;
-	margin-top: 80px;
 }
 
 .footer-distributed .footer-left,
@@ -492,7 +453,7 @@ transition-delay:.2s;
 
 .footer-distributed h3{
 	color:  #ffffff;
-	font: normal 36px 'Cookie', cursive;
+	font: normal 36px 'Ubuntu', sans-serif;
 	margin: 0;
 }
 
@@ -516,7 +477,7 @@ transition-delay:.2s;
 }
 
 .footer-distributed .footer-company-name{
-	color:  #8f9296;
+	color:  #c56b28;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -529,7 +490,7 @@ transition-delay:.2s;
 }
 
 .footer-distributed .footer-center i{
-	background-color:  #33383b;
+	background-color:  #2a2a29;
 	color: #ffffff;
 	font-size: 25px;
 	width: 38px;
@@ -608,8 +569,6 @@ transition-delay:.2s;
 	margin-right: 3px;
 	margin-bottom: 5px;
 }
-
-/* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 880px) {
 
