@@ -431,7 +431,7 @@ transition-delay:.2s;
 	box-sizing: border-box;
 	width: 100%;
 	text-align: left;
-	font: bold 16px sans-serif;
+	font: bold 16px 'Ubuntu', sans-serif;
 
 	padding: 55px 50px;
 }
@@ -480,6 +480,7 @@ transition-delay:.2s;
 	color:  #c56b28;
 	font-size: 14px;
 	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
 	margin: 0;
 }
 
@@ -519,11 +520,13 @@ transition-delay:.2s;
 	font-weight: normal;
 	font-size:14px;
 	line-height:2;
+	font: 16px 'sources sans pro', sans-serif;
 }
 
 .footer-distributed .footer-center p a{
 	color:  #5383d3;
 	text-decoration: none;;
+	font: 16px 'sources sans pro', sans-serif;
 }
 
 
@@ -539,6 +542,7 @@ transition-delay:.2s;
 	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
+	font-family:'sources sans pro', sans-serif;
 }
 
 .footer-distributed .footer-company-about span{
@@ -546,6 +550,7 @@ transition-delay:.2s;
 	color:  #ffffff;
 	font-size: 14px;
 	font-weight: bold;
+	font-family:'sources sans pro', sans-serif;
 	margin-bottom: 20px;
 }
 
