@@ -216,8 +216,8 @@ font-weight: 400;
 
   .input-group-btn .btn:hover {
   color: #efefef;
-  background-color: #c56b28;
-  border-color: #efefef;
+  background-color: #7f3719;
+  border-color: #7f3719;
 }
 
 /* --------- Promos -------- */
@@ -357,7 +357,7 @@ transition-delay:.2s;
 
 .about .container {
   position: relative;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 .about h1 {
@@ -565,7 +565,7 @@ transition-delay:.2s;
 /* Extra small devices (phones, up to 480px) */
 @media screen (max-width: 480px) {
 
-.container .hero-text h1 {
+.hero-text h1 {
   color: white;
   text-align: left;
   font-size: 60px;  
@@ -575,7 +575,7 @@ transition-delay:.2s;
   margin-top: 0;
   margin-left: 20px;
 }
-.container .hero-text h2 {  
+.hero-text h2 {  
   color: white;
   text-align: left;
   font-size: 50px;  
@@ -605,6 +605,28 @@ transition-delay:.2s;
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991px) {
+	
+	.hero-text h1 {
+  color: white;
+  text-align: left;
+  font-size: 80px;  
+  font-family: 'Ubuntu', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-top: 0;
+  margin-left: 20px;
+}
+
+.hero-text h2 {  
+  color: white;
+  text-align: left;
+  font-size: 60px;  
+  font-family: 'Ubuntu', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-left: 20px;
+}
 
 	.newsletter h2 {
   color: white;
@@ -622,7 +644,7 @@ transition-delay:.2s;
   font-weight: 400;
 }
       	.promo3 {
-margin-top: 20px;
+margin-top: 27px;
 }
 }
 
