@@ -40,7 +40,7 @@ font-weight: 400;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-	color: #80d0d8;
+	color: #c56b28;
 }
 
 /* mobile version */
@@ -88,8 +88,7 @@ font-weight: 400;
 }
 .btn-default:hover {
   color: #efefef;
-  background-color: #c56b28;
-  border-color: #efefef;
+  background-color: #88D63C;
 }
 
 .btn-primary {
@@ -100,13 +99,13 @@ font-weight: 400;
 }
 .btn-primary:focus,
 .btn-primary.focus {
-  color: #c56b28;
+  color: #88D63C;
   background-color: #2a2a29;
-  border-color: #c56b28;
+  border-color: #88D63C;
 }
 .btn-primary:hover {
   color: #efefef;
-  background-color: #c56b28;
+  background-color: #88D63C;
   border-color: #efefef;
 }
 
