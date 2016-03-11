@@ -563,12 +563,12 @@ transition-delay:.2s;
 }
 
 /* Extra small devices (phones, up to 480px) */
-@media (max-width: 480px) and (min-width: 0px)
+@media (min-width: 0px) and (max-width: 480px)
 
 .hero-text h1 {
   color: white;
   text-align: left;
-  font-size: 65px;  
+  font-size: 90px;  
   font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -578,7 +578,7 @@ transition-delay:.2s;
 .hero-text h2 {  
   color: white;
   text-align: left;
-  font-size: 80px;  
+  font-size: 110px;  
   font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
