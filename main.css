@@ -131,7 +131,7 @@ font-weight: 400;
 }
 
 .hero .container {
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .hero-text h1 {
@@ -306,7 +306,7 @@ p {
 
 .about .container {
   position: relative;
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .about h1 {
