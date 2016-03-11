@@ -611,7 +611,8 @@ transition-delay:.2s;
   margin-top: 0;
   margin-left: 20px;
 }
-.hero-text h2{  color: white;
+.hero-text h2 {  
+  color: white;
   text-align: left;
   font-size: 50px;  
   font-family: 'Ubuntu', sans-serif;
@@ -629,6 +630,7 @@ transition-delay:.2s;
   font-weight: 700;
   margin-bottom: 0;
 }
+
 .newsletter p {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
@@ -636,6 +638,7 @@ transition-delay:.2s;
 }
 
 }
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991px) {
 
@@ -648,6 +651,7 @@ transition-delay:.2s;
   font-weight: 700;
   margin-bottom: 0;
 }
+
 .newsletter p {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
