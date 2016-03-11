@@ -88,7 +88,7 @@ font-weight: 400;
 }
 .btn-default:hover {
   color: #efefef;
-  background-color: #88D63C;
+  background-color: #c56b28;
 }
 
 .btn-primary {
@@ -99,14 +99,14 @@ font-weight: 400;
 }
 .btn-primary:focus,
 .btn-primary.focus {
-  color: #88D63C;
+  color: #c56b28;
   background-color: #2a2a29;
-  border-color: #88D63C;
+  border-color: #c56b28;
 }
 .btn-primary:hover {
   color: #efefef;
-  background-color: #88D63C;
-  border-color: #efefef;
+  background-color: #c56b28;
+  border-color: #c56b28;
 }
 
 /* --------- Hero --------*/
