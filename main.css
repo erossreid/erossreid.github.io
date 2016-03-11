@@ -26,6 +26,10 @@ color: #c56b28;
 font-size: 52px;
 font-weight: 700;
 }
+.navbar-default .navbar-brand:hover {
+    color: #c56b28;
+    background-color: transparent;
+}
 
 .navbar-nav {
 font-family: 'Ubuntu', sans-serif;
@@ -154,7 +158,7 @@ font-weight: 400;
 }
 
 .jumbotron p {
-  font-size: 20px;
+  font-size: 16px;
   color: #fff;
 }
 
@@ -441,6 +445,10 @@ transition-delay:.2s;
 	color:  inherit;
 }
 
+.footer-links a:hover {
+    color: #c56b28;
+}
+
 .footer-distributed .footer-company-name{
 	color:  #fff;
 	font-size: 14px;
@@ -539,6 +547,9 @@ transition-delay:.2s;
 
 	margin-right: 3px;
 	margin-bottom: 5px;
+}
+.footer-icons a:hover{
+	background-color:  #9b4522;
 }
 
 @media (max-width: 880px) {
