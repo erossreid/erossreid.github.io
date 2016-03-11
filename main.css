@@ -40,7 +40,7 @@ font-weight: 400;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-	color: red;
+	color: #80d0d8;
 }
 
 /* mobile version */
@@ -52,7 +52,7 @@ font-weight: 400;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #DDD;
+    background-color: #2a2a29;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #CCC;
@@ -131,7 +131,7 @@ font-weight: 400;
 }
 
 .hero .container {
-  top:10px;
+  margin-top: 20px;
 }
 
 .hero-text h1 {
@@ -306,7 +306,7 @@ p {
 
 .about .container {
   position: relative;
-  top:10px;
+  margin-top: 20px;
 }
 
 .about h1 {
@@ -426,7 +426,7 @@ transition-delay:.2s;
 
 /* -------------------------Footer----------------------*/
 .footer-distributed{
-	background-color: #292c2f;
+	background-color: #2a2a29;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
@@ -605,7 +605,7 @@ transition-delay:.2s;
 	.hero-text h1 {
   color: white;
   text-align: left;
-  font-size: 75px;  
+  font-size: 60px;  
   font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -614,7 +614,7 @@ transition-delay:.2s;
 }
 .hero-text h2{  color: white;
   text-align: left;
-  font-size: 60px;  
+  font-size: 50px;  
   font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
