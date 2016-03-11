@@ -601,7 +601,7 @@ transition-delay:.2s;
 /* Extra small devices (phones, up to 480px) */
 @media screen (max-width: 480px) {
 
-	.hero-text h1 {
+.container .hero-text h1 {
   color: white;
   text-align: left;
   font-size: 60px;  
@@ -611,7 +611,7 @@ transition-delay:.2s;
   margin-top: 0;
   margin-left: 20px;
 }
-.hero-text h2 {  
+.container .hero-text h2 {  
   color: white;
   text-align: left;
   font-size: 50px;  
